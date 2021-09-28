@@ -1,18 +1,12 @@
-# OSLOthema-mijnThema
+# OSLO Loongegevens
 
-**_Editors:_**
-- Lees eerst [deze richtlijnen](https://github.com/Informatievlaanderen/OSLO-toolchain/blob/master/doc-user/README.md).
-- Gebruik [TagsAndNotes.xlsm](https://github.com/Informatievlaanderen/OSLO-allerleiTooltjes/tree/master/EA-Excel/TagsAndNotes) om gemakkelijk tags te editeren. Bestanden `*.xlsm` worden overigens git-ignored in repo's gemaakt volgens deze template.
+## Context
 
+Via 'Open Standaarden voor Linkende Organisaties' zetten overheden in Vlaanderen in op een eenduidige standaard voor de uitwisseling van informatie. Het is de bedoeling om te zorgen voor meer samenhang en een betere vindbaarheid van data. Op die manier kan iedereen de gegevens makkelijker gebruiken.
 
-## Administratieve informatie
+## Doel
+Het doel van dit traject is om de structuur van data omtrent loongegevens te standaardiseren in samenspraak met alle belanghebbenden. Om zo datastromen semantisch te verrijken, om loongegevens beter vindbaar en begrijpbaar te maken en om deze data beter combineerbaar te maken met andere databronnen.
 
-### Tags
-Voor de beschikbare git tags om naar te refereren bij het maken van publicaties, zie de "Releases" tab in deze repo.
+Op basis van internationale standaarden bouwen we het vocabularium op. We brengen dit in lijn met de geldende Vlaamse regelgeving.
 
-### Branches
-Overzicht van git branches die niet behoren tot de branches voor fixes die gedocumenteerd werden in de richtlijnen.
-
-| Branch | Bedoeling | Nog actief (j/n) |
-| ------ | --------- | ---------------- | 
-|  |  |  |
+Dit is een initiatief van het Agentschap voor de Uitbetaling van het Groeipakket, Digitaal Vlaanderen en het Datanutsbedrijf. De standaardisering gebeurt op vraag van de verschillende belanghebbenden binnen de sector.
